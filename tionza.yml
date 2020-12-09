@@ -1,6 +1,5 @@
 ---
 content_format: sphinx
 supported_languages:
-  - ja
   - fr
-  - zn
+  - es
